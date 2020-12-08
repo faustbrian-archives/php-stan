@@ -50,6 +50,6 @@
         <server name="TELESCOPE_ENABLED" value="false"/>
     </php>
     <listeners>
-        <listener class="JohnKary\PHPUnit\Listener\SpeedTrapListener"/>
+        <listener class="Konceiver\SpeedTrap\SpeedTrapListener"/>
     </listeners>
 </phpunit>
